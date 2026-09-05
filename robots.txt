@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://copios.co.kr/sitemap.xml
